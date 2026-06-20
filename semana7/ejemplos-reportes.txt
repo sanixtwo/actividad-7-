@@ -1,0 +1,11 @@
+Ejemplo 1:
+{
+  "tipo": "Seguridad",
+  "descripcion": "Cámara de vigilancia comunitaria fuera de servicio"
+}
+
+Ejemplo 2:
+{
+  "tipo": "Movilidad",
+  "descripcion": "Semáforo averiado en la intersección principal"
+}

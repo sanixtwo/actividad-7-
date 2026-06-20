@@ -1,0 +1,3 @@
+El código crea un archivo de texto vacío y simula un servidor que responde con datos estructurados al ser consultado. * touch prueba-reportes.txt: Crea un archivo en blanco en el contenedor de Codespace que servirá para almacenar o registrar los reportes más adelante.
+Ruta GET (/reportes): Es el enlace local que el servidor activa para escuchar peticiones de lectura de datos.
+Respuesta JSON: Es el formato estándar que devuelve el servidor con la lista de reportes (ID, tipo y descripción) para que el frontend pueda mostrarlos en pantalla.

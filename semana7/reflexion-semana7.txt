@@ -1,0 +1,9 @@
+El registro y consulta de incidencias en una plataforma tecnológica comunitaria 
+es una herramienta fundamental de veeduría ciudadana y soberanía tecnológica.
+ Al centralizar los reportes, se democratiza el acceso a la información, permitiendo que cualquier miembro identifique fallos,
+  proponga mejoras y audite el estado real del entorno digital colectivo. 
+  Este ejercicio promueve la transparencia por parte de los administradores y fomenta una cultura de corresponsabilidad
+   en el cuidado de las herramientas comunes. Además, 
+   el control y la visibilidad pública de los datos evitan la manipulación de la información y garantizan una toma de decisiones más justa. 
+   En última instancia, la autogestión de los reportes fortalece el tejido social, transformando a los usuarios de simples consumidores pasivos a participantes activos
+    en la seguridad, estabilidad y evolución de su propia infraestructura tecnológica comunitaria.
